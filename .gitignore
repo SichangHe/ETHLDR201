@@ -1,9 +1,14 @@
 **.DS_Store
 **.aux
+**.bbl
+**.bcf
+**.blg
 **.docx
 **.fdb_latexmk
 **.fls
 **.html
 **.log
 **.pdf
+**.run.xml
+**.spl
 **.synctex.gz
