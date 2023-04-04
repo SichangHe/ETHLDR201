@@ -1,5 +1,24 @@
 # Week 3 annotations
 
+## Video 1.1
+
+1. I believe that the obligations of children to their parents are mainly
+    legal and moral.
+
+    Legal obligations are specific and are strong.
+    Depending on the local laws, adopted children may or may not have
+    obligations to their adopted parents.
+    If children are considered to fail legal obligations,
+    it will probably be practical to force them to carry out such obligations,
+    or make up for them, or even punish them under the law.
+
+    On the contrary, moral obligations are general.
+    No matter whether the child is adopted,
+    they have moral obligations to their parents.
+    So, adopted children should still be condemned if they fail these
+    obligations, but I see no ground to force them to carry out the obligations
+    or the punish them.
+
 ## Video 1.2
 
 1. The professors' discussion on the relationship between love and marriage is
