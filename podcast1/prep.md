@@ -23,3 +23,8 @@ How is individualism enhancing?
 > I would expect my own children to practice filial piety because I grew up with parents’ selfless cultivation and would do the same for my children.
 
 How does that carry through?
+
+## Yihang
+
+- Family structure change—simplified in China.
+- Urbanization.
