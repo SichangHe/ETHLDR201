@@ -21,7 +21,7 @@ money and survive [@pouille2023ethics].
 While the individual gain money from their work,
 their work usually help produce food or other materials for the whole society
 to survive.
-For example, farmers and factory workers directly goods that human consume;
+For example, farmers and factory workers directly produce goods that we consume;
 management personal help organize production to increase efficiency of others
 who produce goods directly.
 In this way, we can say that the meaning of work is to produce goods that
@@ -38,15 +38,13 @@ For example, some people volunteer at animal shelters because
 they love animals and want to help care for them;
 others may volunteer as mentors or tutors to share their knowledge and skills
 [@healthdirect2023benefit].
-Therefore, the meaning of work is not always to produce goods or to survive
-as a society.
+Therefore, the meaning of work is not always to produce goods or to survive.
 
-We could argue, though, that most people still volunteer for their or the
-society's survival.
+We could argue, though, that most volunteering still help society survive.
 In the examples above,
-what the volunteers would potentially benefit someone in the society,
+what the volunteers do would potentially benefit someone in the society,
 whether they are someone whose heart is warmed by the animals helped,
-or someone who gets education from the tutor.
+or someone who educated from the tutor.
 As an extreme example,
 volunteering is more and more frequently used to dress up
 free labor harvests [@kelemen2017more].
@@ -56,13 +54,12 @@ In this case, volunteering benefits the company that harvests labor and
 presumably helps it produce goods;
 volunteering also helps the individual whose labor is being harvested to find
 a paid job to survive.
-By that, we could probably say that most of work is for survival.
+By that, we could probably say that most of the meaning of work is for survival.
 
 If that is true, then it seems that work would lose most of its meaning soon.
 Machines can generate value and replace some of the human labor.
-And, machines are better and better at replacing human labor for human to
-survive as the fields of automation and artificial intelligence develop
-rapidly.
+And, as the fields of automation and artificial intelligence develop rapidly,
+machines are better and better at replacing human labor for human to survive.
 Automation would replace the physical labor to produce the goods.
 Artificial intelligence would replace intellectual labor such as management and
 science development that improve the efficiency of physical labor.
@@ -78,7 +75,7 @@ it has been thoroughly tested and we trust it to work consistently
 I argue that the use of toothbrush has been beneficial for humans
 [@pouille2023ethics],
 in the same way, automation and artificial intelligence would save us time and
-improve our living conditions just as toothbrush have done,
+improve our living conditions just as toothbrush has done so,
 *provided that* we test them well enough and make sure that they are extremely
 stable and consistent.
 In that sense, a great portion of the meaning of work would disappear in the
