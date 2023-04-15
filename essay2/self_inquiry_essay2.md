@@ -15,21 +15,21 @@ So, what is the meaning of work? Why do we need it?
 The meaning of work is, first and foremost, generating value,
 especially financial value.
 
-For us human as a species, many work to gain the material to survive.
+For us humans as a species, many work to gain the material to survive.
 In class, many of our classmates claim that the purpose of work is to earn
 money and survive [@pouille2023ethics].
-While the individual gain money from their work,
+While individual gain money from their work,
 their work usually help produce food or other materials for the whole society
 to survive.
 For example, farmers and factory workers directly produce goods that we consume;
-management personal help organize production to increase efficiency of others
-who produce goods directly.
+management personnel help organize production to increase the efficiency of
+others who produce goods directly.
 In this way, we can say that the meaning of work is to produce goods that
-human need and we need work to survive as a society.
+humans need and we need work to survive as a society.
 
 There are, however, many counterarguments to the "work to survive" hypothesis.
 
-While many work to earn a living, sometimes people work for free.
+While many works to earn a living, sometimes people work for free.
 This type of work is often volunteering.
 Some people volunteer out of their desire to help others,
 to gain skills and experiences,
@@ -40,16 +40,16 @@ others may volunteer as mentors or tutors to share their knowledge and skills
 [@healthdirect2023benefit].
 Therefore, the meaning of work is not always to produce goods or to survive.
 
-We could argue, though, that most volunteering still help society survive.
+We could argue, though, that most volunteering still helps society survive.
 In the examples above,
 what the volunteers do would potentially benefit someone in the society,
 whether they are someone whose heart is warmed by the animals helped,
-or someone who educated from the tutor.
+or someone educated by the tutor.
 As an extreme example,
 volunteering is more and more frequently used to dress up
 free labor harvests [@kelemen2017more].
-In my annotations, I recall that many Chinese companies do not pay internships
-or even charge for them [@he2023annotations].
+In my annotations, I recall that many Chinese companies do not pay for
+internships or even charge for them [@he2023annotations].
 In this case, volunteering benefits the company that harvests labor and
 presumably helps it produce goods;
 volunteering also helps the individual whose labor is being harvested to find
@@ -59,7 +59,7 @@ By that, we could probably say that most of the meaning of work is for survival.
 If that is true, then it seems that work would lose most of its meaning soon.
 Machines can generate value and replace some of the human labor.
 And, as the fields of automation and artificial intelligence develop rapidly,
-machines are better and better at replacing human labor for human to survive.
+machines are better and better at replacing human labor for humans to survive.
 Automation would replace the physical labor to produce the goods.
 Artificial intelligence would replace intellectual labor such as management and
 science development that improve the efficiency of physical labor.
@@ -69,7 +69,7 @@ technologies?
 My opinion is that, if technologies are reliable to replace manual labor,
 it would be beneficial to humanity.
 In class, Professor Pouille argues that we should not *rely* on technologies,
-and I argue that relying on a technology is convenient but only acceptable if
+and I argue that relying on technology is convenient but only acceptable if
 it has been thoroughly tested and we trust it to work consistently
 [@pouille2023ethics].
 I argue that the use of toothbrush has been beneficial for humans
@@ -90,8 +90,8 @@ unemployable because all their skills will be replaced by machines
 [@harari2017meaning].
 I, however, believe that what makes people unemployable is much more likely
 their social status than their capabilities.
-In my annotation, I discuss about homeless people;
-I assert that many of them are social bankrupt,
+In my annotation, I discuss homeless people;
+I assert that many of them are socially bankrupt,
 that they have done something in the past that lost then the trust of society
 [@he2023annotations].
 For someone without skills for work, others could still teach them to become
@@ -107,7 +107,8 @@ I observe in my annotations that this community formed by work persists even
 after retirement and people feel left out by a big part of their community
 after they lose their jobs [@he2023annotations].
 Being together with other human beings and facing the same problems or
-challenges together in work greatly satisfies our mental need as social animals.
+challenges together in work greatly satisfies our mental needs as social
+animals.
 So, maybe the sense of community that feeds individuals' social needs is the
 more important meaning of work and why we need it.
 
@@ -115,32 +116,32 @@ So far, it seems that work is considered to bring value,
 but what if the opposite is true instead?
 
 What if what we think are the meanings of work and the fact that we need work
-are just what society told us?
+are just what society tells us?
 In my annotations, I reflect that people learn to accept and enjoy what they
 are told to do [@he2023annotations].
-During forced "voluntolding," many people come to accept what they are told to
+During forced "voluntold," many people come to accept what they are told to
 do and start to enjoy it [@kelemen2017more].
 This is similar to how religions teach people to have certain behaviors such as
-praying and enjoy them [@he2023annotations].
+praying and to enjoy them [@he2023annotations].
 In theory, many people could be enjoying their work just because they have been
 educated to enjoy it.
 Work could have no intrinsic relationship with our survival or our sense of
 community in the future although they are what society tells us today.
 
 Those are just conspiracies, though.
-Some scholars even argue that any work usually involves some negative effects to
-them as well [@todd2017ever].
-But, these do not disprove the value of work most people do in terms of the
-material work produce that let us survive, or the mental satisfaction as
-social animals.
+Some scholars even argue that any work usually involves some negative effects
+[@todd2017ever].
+But, these arguments do not disprove the value of work most people do in terms
+of the material work produce that lets us survive,
+or the mental satisfaction as social animals.
 
 All in all, the major meanings of work right now are still producing goods to
 survive and achieving a sense of community.
-We need work because our society needs the product of work to survive and us
+We need work because our society needs the product to survive and we
 individuals mentally need to have a community.
 The advance of technology may weaken the former meaning,
 and doubts and objections to work would last,
-but we would likely still need something that brings us the sense of community.
+but we would likely still need something that brings us a sense of community.
 Maybe, in the future, when there is no need to work,
 people will engage in virtual worlds to seek that sense of community
 [@harari2017meaning].
