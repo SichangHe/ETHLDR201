@@ -7,19 +7,19 @@ date: \today
 ---
 
 "Work" as an English word has various meanings,
-it is hard to even define the concept of work itself
+it is hard to even define the concept of work
 [@cholbi2023philosophical].
-However, work is an important part of our life—we see then everywhere.
+However, work is an important part of our life—we see it everywhere.
 So, what is the meaning of work? Why do we need it?
 
 The meaning of work is, first and foremost, generating value,
 especially financial value.
 
-For us humans as a species, many work to gain the material to survive.
+Many people work to gain the material to survive.
 In class, many of our classmates claim that the purpose of work is to earn
 money and survive [@pouille2023ethics].
-While individual gain money from their work,
-their work usually help produce food or other materials for the whole society
+While individual earn money from their work,
+their work usually helps produce food or other materials for the whole society
 to survive.
 For example, farmers and factory workers directly produce goods that we consume;
 management personnel help organize production to increase the efficiency of
@@ -36,7 +36,7 @@ to gain skills and experiences,
 or to meet new people and build social connections [@healthdirect2023benefit].
 For example, some people volunteer at animal shelters because
 they love animals and want to help care for them;
-others may volunteer as mentors or tutors to share their knowledge and skills
+others may volunteer as tutors to share their knowledge and skills
 [@healthdirect2023benefit].
 Therefore, the meaning of work is not always to produce goods or to survive.
 
@@ -44,7 +44,7 @@ We could argue, though, that most volunteering still helps society survive.
 In the examples above,
 what the volunteers do would potentially benefit someone in the society,
 whether they are someone whose heart is warmed by the animals helped,
-or someone educated by the tutor.
+or someone educated by the mentor.
 As an extreme example,
 volunteering is more and more frequently used to dress up
 free labor harvests [@kelemen2017more].
@@ -68,7 +68,7 @@ technologies?
 
 My opinion is that, if technologies are reliable to replace manual labor,
 it would be beneficial to humanity.
-In class, Professor Pouille argues that we should not *rely* on technologies,
+In class, Professor Pouille argues that we should not *rely* on technology,
 and I argue that relying on technology is convenient but only acceptable if
 it has been thoroughly tested and we trust it to work consistently
 [@pouille2023ethics].
@@ -92,7 +92,7 @@ I, however, believe that what makes people unemployable is much more likely
 their social status than their capabilities.
 In my annotation, I discuss homeless people;
 I assert that many of them are socially bankrupt,
-that they have done something in the past that lost then the trust of society
+that they have done something in the past that lost them the trust of society
 [@he2023annotations].
 For someone without skills for work, others could still teach them to become
 useful, so they would not be permanently unemployable;
@@ -135,8 +135,8 @@ But, these arguments do not disprove the value of work most people do in terms
 of the material work produce that lets us survive,
 or the mental satisfaction as social animals.
 
-All in all, the major meanings of work right now are still producing goods to
-survive and achieving a sense of community.
+All in all, the major meanings of work right now are still in survival and
+mental needs as social animals.
 We need work because our society needs the product to survive and we
 individuals mentally need to have a community.
 The advance of technology may weaken the former meaning,
@@ -147,3 +147,4 @@ people will engage in virtual worlds to seek that sense of community
 [@harari2017meaning].
 Then, we would need to think more about the meanings of work and why we would
 need it.
+(1199 words)
