@@ -15,7 +15,7 @@ Get another job if not satisfied.
 
 ## Jinheng
 
-E> mployment bring meaning and purpose by giving individuals a sense of identity
+> Employment bring meaning and purpose by giving individuals a sense of identity
 and purpose.
 
 Same.
@@ -27,7 +27,7 @@ But, they don't have to work to be exposed to challenges and learn.
 
 > Self-reflection and choose work that matches our ideology.
 
-Always a touch one.
+Always a tough one.
 
 > Personal fulfillment vs the greater good.
 
