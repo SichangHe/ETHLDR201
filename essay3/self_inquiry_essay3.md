@@ -46,8 +46,6 @@ As a technology, the Internet has enabled information in general to spread
 quicker.
 Negative information, however,
 is discovered to spread much faster than positive information [@fox2018fake].
-I have heard people comment that the number of "retweets" is a good indicator
-of the number of dislikes a tweet has.
 This is in line with our experience that people get excited to complain about
 what they disagree with but seldom talk about what they are satisfied with.
 So, the difference in the speed the Internet spreads negative information and
@@ -151,3 +149,4 @@ So, the Internet has all the potential to do good to communities,
 and only with great awareness, care, and effort,
 can we leverage such potential to maximize the benefit,
 and build up helpful global communities.
+(1189 words)
